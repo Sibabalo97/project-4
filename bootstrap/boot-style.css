@@ -1,0 +1,14 @@
+body {
+    background-color: navajowhite;
+}
+.card {
+    margin: 5px !important;
+    padding: 3px;
+}
+.marquee {
+    background-color: greenyellow;
+}
+.card img {
+    width: 60%;
+}
+
